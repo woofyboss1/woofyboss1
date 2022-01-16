@@ -5,4 +5,4 @@ My Tryhackme:https://tryhackme.com/p/sicko666
 
 
 My Discord:woof#6905
-[![Woof's GitHub stats](https://github-readme-stats.vercel.app/api?woofyboss1=woofyboss1)](https://github.com/woofyboss1/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woofyboss1)](https://github.com/anuraghazra/github-readme-stats)
