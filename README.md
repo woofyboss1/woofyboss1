@@ -5,4 +5,9 @@ My Tryhackme:https://tryhackme.com/p/sicko666
 
 
 My Discord:woof#6905
-[![Woof's GitHub stats](https://github-readme-stats.vercel.app/api?username=woofyboss1)](https://github.com/woofyboss1/github-readme-stats)
+<a href="https://github.com/woofyboss1/github-readme-stats%22%3E
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=woofyboss1&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/woofyboss1/github-readme-stats%22%3E
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woofyboss1" />
+</a> 
