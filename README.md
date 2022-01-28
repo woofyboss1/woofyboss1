@@ -1,4 +1,4 @@
-
+Born in Yokohama.
 
 
 
