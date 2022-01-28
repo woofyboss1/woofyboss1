@@ -9,12 +9,12 @@ My interest is in machine learning and penetration testing.
 ## Other
 
 ### Languages
-![](https://img.shields.io/badge/Java-007396?labelColor=yellow&logo=Java)
-![](https://img.shields.io/badge/Ruby-CC342D?labelColor=red&logo=Ruby)
+![](https://img.shields.io/badge/Java-007396?labelColor=black&logo=Java)
+![](https://img.shields.io/badge/Ruby-CC342D?labelColor=black&logo=Ruby)
 
 ### Editors
 ![](https://img.shields.io/badge/Intelij%20IDEA-000000?labelColor=black&logo=Intelij%20IDEA)
 
 ### OS
-![](https://img.shields.io/badge/Kali%20Linux-557C94?labelColor=blue&logo=IKali%20Linux)
+![](https://img.shields.io/badge/Kali%20Linux-557C94?labelColor=black&logo=IKali%20Linux)
 
