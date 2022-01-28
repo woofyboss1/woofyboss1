@@ -3,10 +3,9 @@ I was born in Yokohama,coding for hobby.
 My interest is in machine learning and penetration testing.
 
 ## stats
- <p align="left"> 
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woofyboss1&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
- <img src="https://tryhackme.com/badge/751715"></img>
-</p>
+
 ## Other
 
 ### Languages
