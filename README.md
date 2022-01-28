@@ -11,4 +11,4 @@ My interest is in machine learning and penetration testing.
 ![](https://img.shields.io/badge/Ruby-CC342D?labelColor=red&logo=Ruby)
 
 ### Editors
-![](https://img.shields.io/badge/Intelij Idea Ultimate-000000?labelColor=black&logo=Intelij Idea Ultimate)
+![](https://img.shields.io/badge/IIdea-000000?labelColor=black&logo=Intelij Idea Ultimate)
