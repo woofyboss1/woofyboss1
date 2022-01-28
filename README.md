@@ -16,5 +16,5 @@ My interest is in machine learning and penetration testing.
 ![](https://img.shields.io/badge/Intelij%20IDEA-000000?labelColor=black&logo=Intelij%20IDEA)
 
 ### OS
-![](https://img.shields.io/badge/Kali%20Linux-557C94?labelColor=black&logo=IKali%20Linux)
+![](https://img.shields.io/badge/KaliLinux-557C94?labelColor=black&logo=IKali%20Linux)
 
