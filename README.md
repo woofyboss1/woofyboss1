@@ -12,3 +12,7 @@ My interest is in machine learning and penetration testing.
 
 ### Editors
 ![](https://img.shields.io/badge/InteliJ%20Idea%Ultimate-000000?labelColor=black&logo=Intelij%20Idea%20Ultimate)
+
+### OS
+![](https://img.shields.io/badge/Kali%20Linux-557C94?labelColor=blue&logo=IKali%20Linux)
+
