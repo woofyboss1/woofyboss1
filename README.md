@@ -1,10 +1,11 @@
-##About me
+## About me
 I was born in Yokohama,coding for hobby.
 My interest is in machine learning and penetration testing.
 
-##stats
+## stats
+<p align="left"> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woofyboss1&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-##langs
+</p>
+## langs
 ![](https://img.shields.io/badge/Java-#007396?labelColor=yellowgreen&logo=Java)
 
