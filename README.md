@@ -5,7 +5,8 @@ My interest is in machine learning and penetration testing.
 ## stats
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woofyboss1&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://tryhackme-badges.s3.amazonaws.com/sicko666.png" alt="TryHackMe">
+<img src="![image](https://user-images.githubusercontent.com/97229634/151562764-4c94e2f9-f211-484e-859e-de4bfcfc6b84.png)
+">
  
 ## Other
 
