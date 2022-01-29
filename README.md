@@ -1,6 +1,6 @@
 ## About me
 I was born in Yokohama,coding for hobby.
-My interest is in machine learning and penetration testing.
+My interest is in Machine Learning and Penetration Testing.
 
 ## stats
  
