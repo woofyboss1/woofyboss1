@@ -5,7 +5,7 @@ Avatar credit : https://zhelongxu.com/projects/28aPY?album_id=9439
 
 ## stats
  
-<img src="https://tryhackme-badges.s3.amazonaws.com/sicko666.png?3">
+<img src="https://tryhackme-badges.s3.amazonaws.com/sicko666.png" alt="TryHackMe">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woofyboss1&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
  
