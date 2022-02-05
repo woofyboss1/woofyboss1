@@ -1,5 +1,5 @@
 ## About me
-I was born in Yokohama,Coding for Hobby.
+I was born in Yokohama , Coding for Hobby.
 
 
 
